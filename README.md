@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-💻 Enthusiastic about web development especially frontend-related works.
+I'm a self-taught developer who is always learning and creating cool stuffs.
 
 <div>
   <a href="https://github.com/choiruladamm?tab=repositories&q=&type=&language"><img height="154" src="https://github-readme-stats.vercel.app/api?username=choiruladamm&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
